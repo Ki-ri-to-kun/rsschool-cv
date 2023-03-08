@@ -1,1 +1,1 @@
-https://ki-ri-to-kun.github.io/rsschool-cv/cv
+[Stanislav Kazakov CV](https://ki-ri-to-kun.github.io/rsschool-cv/cv)
