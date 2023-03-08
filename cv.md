@@ -8,6 +8,29 @@
 # About Myself:
 I am an economist by education, but I want to be a software developer
 ***
+# Code example:
+
+
+**Does my number look big in this?** KATA from CODEWARS: A Narcissistic Number (or Armstrong Number) is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10). Your code must return true or false (not 'true' and 'false') depending upon whether the given number is a Narcissistic number in base 10.
+```javascript
+function narcissistic(value) {
+  const someNumberString = value.toString();
+	const someNumberDigitalQuantity = someNumberString.length;
+  
+	let armstrongNumber = 0;
+  
+	for (number of someNumberString) {
+		armstrongNumber += Math.pow(+number, someNumberDigitalQuantity);
+	}
+  
+	if (armstrongNumber === value ) {
+		return true;
+	}
+  
+	return false;
+}
+```
+***
 # Skills
 * HTML5
 * CSS3/SCSS/BEM
