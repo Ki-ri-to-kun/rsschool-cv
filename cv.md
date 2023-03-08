@@ -42,4 +42,4 @@ function narcissistic(value) {
 #  Languages 
 My knowledge of English is not very good, but it allows me to watch programming videos and understand most of it. Here is my score at [EFSET](https://www.efset.org/quick-check/) test: 
 
-![image](https://github.com/Ki-ri-to-kun/334/blob/main/efsetEnglish.jpg)
+![image](https://ki-ri-to-kun.github.io/rsschool-cv/efsetEnglish.jpg)
